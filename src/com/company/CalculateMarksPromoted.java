@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class PracticeSet_4 {
+public class CalculateMarksPromoted {
      public static void main(String[] args) {
          Scanner sc=new Scanner(System.in);
          byte m1,m2,m3;
